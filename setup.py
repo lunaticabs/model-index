@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 from modelindex import __version__
 
-name = "model-index"
+name = "modelindex"
 author = "Robert Stojnic"
 author_email = "hello@paperswithcode.com"
 url = "https://github.com/paperswithcode/model-index"
